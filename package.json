@@ -21,6 +21,7 @@
   "homepage": "https://github.com/selloumdev/claude#readme",
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.3",
+    "playwright-core": "^1.64.1",
     "tailwindcss": "^4.3.3"
   }
 }
