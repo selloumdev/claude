@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sora: "Sora", system-ui, sans-serif;
+  --color-champion-green: #007637;
+  --color-page: #e9eef4;
+}
